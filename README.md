@@ -44,14 +44,20 @@ React Navigation: Uygulamanın sayfaları arasında geçiş yapmak için kullan�
 Git: Proje yönetimi ve versiyon kontrolü için kullanılan dağıtık versiyon kontrol sistemi.
 Sonuç:
 Nar Evim, kullanıcı dostu arayüzü ve güçlü veri yönetimi ile ev dekorasyonu ve ev yaşamına yönelik ihtiyaçları karşılayan bir e-ticaret uygulamasıdır. Kullanıcılar kolayca hesap oluşturabilir, ürünleri inceleyebilir ve güvenli bir şekilde alışveriş yapabilir. Sepet ve favori listesi gibi temel e-ticaret özellikleri ile müşteri deneyimi en üst düzeye çıkarılmıştır.
+# 📱 Uygulama Ekran Görüntüleri
 
-![22 08](https://github.com/user-attachments/assets/872f08c1-2aa5-47d2-bb83-74df9b3e78eb)
-![Screenshot_1725746028](https://github.com/user-attachments/assets/27cd2b92-3a85-4b9a-a045-9a993a1b42ff)
-![anakategorisayfası](https://github.com/user-attachments/assets/abdf9c79-8215-4b06-85a7-4b11e118c61f)
-![Screenshot_1725460561](https://github.com/user-attachments/assets/508f4d8e-34a9-4f5b-826d-9e1d6796b452)
-![giriş yap ekranı](https://github.com/user-attachments/assets/dcdfde55-7dd9-4b42-951f-f8a39a0fb6ed)
-![05 09](https://github.com/user-attachments/assets/d48656e3-4fce-4858-8c4a-fe26e8319763)
-![kullanıcı bilgilerim](https://github.com/user-attachments/assets/2a993eb2-19ec-47a4-a54a-5e8f56a8ceb0)
-![04:05](https://github.com/user-attachments/assets/e54ecb99-8a9c-41d0-a0c6-e98ffdf8c889)
-![02 09](https://github.com/user-attachments/assets/0bfc1528-aa21-4601-9f56-7c7579a0ce98)
-![Screenshot_1725554523](https://github.com/user-attachments/assets/9fac891d-99aa-4ff4-ae88-40e3a1cd0d9d)
+## Ana Sayfa & Kategoriler
+<img width="250" src="https://github.com/user-attachments/assets/872f08c1-2aa5-47d2-bb83-74df9b3e78eb" />
+<img width="250" src="https://github.com/user-attachments/assets/27cd2b92-3a85-4b9a-a045-9a993a1b42ff" />
+<img width="250" src="https://github.com/user-attachments/assets/abdf9c79-8215-4b06-85a7-4b11e118c61f" />
+<img width="250" src="https://github.com/user-attachments/assets/508f4d8e-34a9-4f5b-826d-9e1d6796b452" />
+
+## Giriş & Kayıt
+<img width="250" src="https://github.com/user-attachments/assets/dcdfde55-7dd9-4b42-951f-f8a39a0fb6ed" />
+<img width="250" src="https://github.com/user-attachments/assets/d48656e3-4fce-4858-8c4a-fe26e8319763" />
+
+## Kullanıcı Profili & Bilgiler
+<img width="250" src="https://github.com/user-attachments/assets/2a993eb2-19ec-47a4-a54a-5e8f56a8ceb0" />
+<img width="250" src="https://github.com/user-attachments/assets/e54ecb99-8a9c-41d0-a0c6-e98ffdf8c889" />
+<img width="250" src="https://github.com/user-attachments/assets/0bfc1528-aa21-4601-9f56-7c7579a0ce98" />
+<img width="250" src="https://github.com/user-attachments/assets/9fac891d-99aa-4ff4-ae88-40e3a1cd0d9d" />

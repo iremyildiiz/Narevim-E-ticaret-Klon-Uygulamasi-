@@ -1,4 +1,5 @@
 Proje Adı: Nar Evim E-Ticaret Uygulaması
+
 Proje Amacı:
 Nar Evim, kullanıcıların ev dekorasyonu, mobilya ve diğer ev yaşamına dair ürünleri online olarak satın alabilecekleri bir e-ticaret mobil uygulamasıdır. Uygulama, kullanıcılara geniş ürün yelpazesini kolayca keşfetme, favori ürünleri listeleme, güvenli alışveriş yapma ve sipariş süreçlerini yönetme imkanı sağlar.
 
